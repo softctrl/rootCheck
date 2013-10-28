@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Root Check</string>
+    <string name="action_settings">Settings</string>
+    <string name="explainText">Will only check if you have root capabilities *not provide it*</string>
+    <string name="button">Check</string>
+    <string name="resultText"/>
+
+</resources>
